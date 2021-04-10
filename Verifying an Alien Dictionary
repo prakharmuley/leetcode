@@ -1,0 +1,24 @@
+class Solution {
+    public boolean isAlienSorted(String[] w, String o) {
+        int mp[]=new int[26];
+        int sq=0;
+        for(char ch: o.toCharArray()) {
+            mp[ch-'a']=sq++;
+        }
+        for(int i=0;i<w.length-1;i++)
+        {
+            String cur=w[i];
+            String nxt=w[i+1];
+            int l=Math.min(cur.length(),nxt.length());
+            if(l!=cur.length()&&l==nxt.length()&&cur.startsWith(nxt)) return false;
+            for(int j=0;j<l;j++)
+            {
+                
+                if(mp[cur.charAt(j)-'a']>mp[nxt.charAt(j)-'a'])return false;
+                if(mp[cur.charAt(j)-'a']<mp[nxt.charAt(j)-'a']) break;
+                
+            }
+        }
+        return true;
+    }
+}
