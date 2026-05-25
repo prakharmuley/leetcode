@@ -7,7 +7,7 @@ class Solution {
     while(j<fruits.length)
     {
         h.put(fruits[j],h.getOrDefault(fruits[j],0)+1);
-      if(h.size()>2)
+      while(h.size()>2)
         {
             h.put(fruits[i],h.get(fruits[i])-1);
             if(h.get(fruits[i])==0)
