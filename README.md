@@ -30,6 +30,7 @@ daily_challenge
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/prakharmuley/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,6 +54,7 @@ daily_challenge
 | [0076-minimum-window-substring](https://github.com/prakharmuley/leetcode/tree/master/0076-minimum-window-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prakharmuley/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/prakharmuley/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/prakharmuley/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@ daily_challenge
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/prakharmuley/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/prakharmuley/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Math
 |  |
 | ------- |
