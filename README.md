@@ -12,6 +12,7 @@ daily_challenge
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/prakharmuley/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@ daily_challenge
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/prakharmuley/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/prakharmuley/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
@@ -67,6 +69,7 @@ daily_challenge
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/prakharmuley/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/prakharmuley/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Math
 |  |
 | ------- |
