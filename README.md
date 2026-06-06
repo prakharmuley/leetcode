@@ -8,6 +8,7 @@ daily_challenge
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/prakharmuley/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharmuley/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/prakharmuley/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -47,6 +48,7 @@ daily_challenge
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/prakharmuley/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharmuley/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/prakharmuley/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -76,6 +78,7 @@ daily_challenge
 | ------- |
 | [0076-minimum-window-substring](https://github.com/prakharmuley/leetcode/tree/master/0076-minimum-window-substring) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/prakharmuley/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharmuley/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/prakharmuley/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prakharmuley/leetcode/tree/master/0930-binary-subarrays-with-sum) |
