@@ -21,6 +21,7 @@ daily_challenge
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/prakharmuley/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ daily_challenge
 | [1590-make-sum-divisible-by-p](https://github.com/prakharmuley/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@ daily_challenge
 | [2062-count-vowel-substrings-of-a-string](https://github.com/prakharmuley/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/prakharmuley/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -125,4 +128,5 @@ daily_challenge
 |  |
 | ------- |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prakharmuley/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 <!---LeetCode Topics End-->
