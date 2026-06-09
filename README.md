@@ -82,6 +82,7 @@ daily_challenge
 | [1208-get-equal-substrings-within-budget](https://github.com/prakharmuley/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/prakharmuley/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/prakharmuley/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [3713-longest-balanced-substring-i](https://github.com/prakharmuley/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ daily_challenge
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/prakharmuley/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [3713-longest-balanced-substring-i](https://github.com/prakharmuley/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -139,4 +141,9 @@ daily_challenge
 |  |
 | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/prakharmuley/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3713-longest-balanced-substring-i](https://github.com/prakharmuley/leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/prakharmuley/leetcode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
