@@ -15,6 +15,7 @@ daily_challenge
 | [0904-fruit-into-baskets](https://github.com/prakharmuley/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prakharmuley/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakharmuley/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/prakharmuley/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -63,6 +64,7 @@ daily_challenge
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/prakharmuley/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakharmuley/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prakharmuley/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -98,6 +100,7 @@ daily_challenge
 | [0904-fruit-into-baskets](https://github.com/prakharmuley/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prakharmuley/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakharmuley/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prakharmuley/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -164,4 +167,5 @@ daily_challenge
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/prakharmuley/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 <!---LeetCode Topics End-->
