@@ -26,6 +26,7 @@ daily_challenge
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/prakharmuley/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1895-largest-magic-square](https://github.com/prakharmuley/leetcode/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/prakharmuley/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -77,6 +78,7 @@ daily_challenge
 | [1590-make-sum-divisible-by-p](https://github.com/prakharmuley/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1895-largest-magic-square](https://github.com/prakharmuley/leetcode/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/prakharmuley/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Greedy
@@ -174,6 +176,7 @@ daily_challenge
 | [0304-range-sum-query-2d-immutable](https://github.com/prakharmuley/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prakharmuley/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1895-largest-magic-square](https://github.com/prakharmuley/leetcode/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/prakharmuley/leetcode/tree/master/2536-increment-submatrices-by-one) |
 ## Ordered Set
 |  |
