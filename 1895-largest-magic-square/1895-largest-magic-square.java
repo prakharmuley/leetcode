@@ -47,18 +47,18 @@ class Solution {
                 col[j][i]=col[j-1][i]+grid[j][i];
             }
         }
-        int ans=0;
+        int ans=1;
 
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
                 int size=Math.min(n-i,m-j);
-                for(int sz=size;sz>1;sz--)
+                for(int sz=size;sz>ans;sz--)
                 {
                         if(isValid(i,j,sz,row,col,grid))
                         {
-                            ans=Math.max(ans,sz);
+                            ans=sz;
                             break;
                         }
                 }
