@@ -7,6 +7,7 @@ daily_challenge
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakharmuley/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharmuley/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prakharmuley/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -106,6 +107,7 @@ daily_challenge
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prakharmuley/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
@@ -207,5 +209,6 @@ daily_challenge
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakharmuley/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharmuley/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
