@@ -1,0 +1,45 @@
+class Solution {
+
+    public boolean canPlaceBalls(int minGap, int[] position , int m){
+
+        int prevPosition = position[0];
+        int ballsPlaced =1;
+
+        for (int i=1; i<position.length && ballsPlaced<m ; i++){
+
+            if(position[i]-prevPosition>=minGap){
+                prevPosition = position[i];
+                ballsPlaced++;
+            }
+
+
+        }
+        if(ballsPlaced==m) return true;
+        return false;
+
+    }
+    public int maxDistance(int[] position, int m) {
+
+        int n = position.length;
+
+        Arrays.sort(position);
+
+
+        int min = 1;
+        int max = (position[n-1]-position[0]);
+        int minForce=1;
+
+        while(min<=max){
+            int mid = (min+max)/2;
+            if(canPlaceBalls(mid,position,m)){
+                minForce = mid;
+                min = mid+1;
+            }else{
+                max = mid -1;
+            }
+        }
+
+        return minForce;
+        
+    }
+}
