@@ -17,6 +17,7 @@ daily_challenge
 | [0525-contiguous-array](https://github.com/prakharmuley/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharmuley/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/prakharmuley/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prakharmuley/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakharmuley/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -102,12 +103,14 @@ daily_challenge
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakharmuley/leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prakharmuley/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
+| [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prakharmuley/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
@@ -211,4 +214,5 @@ daily_challenge
 | [0011-container-with-most-water](https://github.com/prakharmuley/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharmuley/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
