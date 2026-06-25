@@ -38,6 +38,7 @@ daily_challenge
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prakharmuley/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2536-increment-submatrices-by-one](https://github.com/prakharmuley/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/prakharmuley/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/prakharmuley/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
@@ -56,6 +57,7 @@ daily_challenge
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prakharmuley/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/prakharmuley/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,6 +115,7 @@ daily_challenge
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prakharmuley/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/prakharmuley/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
@@ -215,4 +218,5 @@ daily_challenge
 | [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharmuley/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/prakharmuley/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
