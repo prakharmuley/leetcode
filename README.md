@@ -177,6 +177,7 @@ daily_challenge
 | [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/prakharmuley/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prakharmuley/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/prakharmuley/leetcode/tree/master/0901-online-stock-span) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prakharmuley/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -185,6 +186,7 @@ daily_challenge
 | [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/prakharmuley/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prakharmuley/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/prakharmuley/leetcode/tree/master/0901-online-stock-span) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prakharmuley/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bit Manipulation
@@ -212,6 +214,7 @@ daily_challenge
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/prakharmuley/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0901-online-stock-span](https://github.com/prakharmuley/leetcode/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -234,4 +237,8 @@ daily_challenge
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharmuley/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/prakharmuley/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/prakharmuley/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
