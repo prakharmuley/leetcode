@@ -8,6 +8,7 @@ daily_challenge
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakharmuley/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharmuley/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prakharmuley/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -169,10 +170,12 @@ daily_challenge
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 ## Bit Manipulation
 |  |
@@ -192,6 +195,7 @@ daily_challenge
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prakharmuley/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Design
@@ -216,6 +220,7 @@ daily_challenge
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakharmuley/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharmuley/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/prakharmuley/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
