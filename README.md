@@ -24,6 +24,7 @@ daily_challenge
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/prakharmuley/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0907-sum-of-subarray-minimums](https://github.com/prakharmuley/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/prakharmuley/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakharmuley/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -182,6 +183,7 @@ daily_challenge
 | [0496-next-greater-element-i](https://github.com/prakharmuley/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prakharmuley/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/prakharmuley/leetcode/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/prakharmuley/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prakharmuley/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -193,6 +195,7 @@ daily_challenge
 | [0496-next-greater-element-i](https://github.com/prakharmuley/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prakharmuley/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/prakharmuley/leetcode/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/prakharmuley/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prakharmuley/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bit Manipulation
@@ -216,6 +219,7 @@ daily_challenge
 | [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0907-sum-of-subarray-minimums](https://github.com/prakharmuley/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prakharmuley/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Design
 |  |
