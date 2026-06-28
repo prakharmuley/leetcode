@@ -44,6 +44,7 @@ daily_challenge
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1895-largest-magic-square](https://github.com/prakharmuley/leetcode/tree/master/1895-largest-magic-square) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prakharmuley/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2104-sum-of-subarray-ranges](https://github.com/prakharmuley/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2536-increment-submatrices-by-one](https://github.com/prakharmuley/leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/prakharmuley/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -188,6 +189,7 @@ daily_challenge
 | [0962-maximum-width-ramp](https://github.com/prakharmuley/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prakharmuley/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/prakharmuley/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -201,6 +203,7 @@ daily_challenge
 | [0962-maximum-width-ramp](https://github.com/prakharmuley/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prakharmuley/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/prakharmuley/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
 | ------- |
