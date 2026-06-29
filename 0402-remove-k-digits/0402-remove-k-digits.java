@@ -19,11 +19,11 @@ class Solution {
             k--;
         }
         while(!st.isEmpty()) sb.append(num.charAt(st.pop()));
-        sb.reverse();
+        
 
-        while(sb.length()>0 && sb.charAt(0)=='0')
-            sb.deleteCharAt(0);
-        return sb.toString().length()==0?"0":sb.toString();
+        while(sb.length()>0 && sb.charAt(sb.length()-1)=='0')
+            sb.deleteCharAt(sb.length()-1);
+        return sb.toString().length()==0?"0":sb.reverse().toString();
     }
 }
 
