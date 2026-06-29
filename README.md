@@ -44,6 +44,7 @@ daily_challenge
 | [1590-make-sum-divisible-by-p](https://github.com/prakharmuley/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/prakharmuley/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/prakharmuley/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1895-largest-magic-square](https://github.com/prakharmuley/leetcode/tree/master/1895-largest-magic-square) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prakharmuley/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -122,6 +123,7 @@ daily_challenge
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/prakharmuley/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/prakharmuley/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prakharmuley/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sorting
@@ -131,6 +133,7 @@ daily_challenge
 | [0455-assign-cookies](https://github.com/prakharmuley/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prakharmuley/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1833-maximum-ice-cream-bars](https://github.com/prakharmuley/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/prakharmuley/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## String
@@ -278,4 +281,8 @@ daily_challenge
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/prakharmuley/leetcode/tree/master/0901-online-stock-span) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/prakharmuley/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
