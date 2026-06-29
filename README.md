@@ -117,6 +117,7 @@ daily_challenge
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prakharmuley/leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/prakharmuley/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -133,6 +134,7 @@ daily_challenge
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/prakharmuley/leetcode/tree/master/0076-minimum-window-substring) |
+| [0402-remove-k-digits](https://github.com/prakharmuley/leetcode/tree/master/0402-remove-k-digits) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prakharmuley/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/prakharmuley/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/prakharmuley/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -189,6 +191,7 @@ daily_challenge
 | [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharmuley/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/prakharmuley/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/prakharmuley/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/prakharmuley/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prakharmuley/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -204,6 +207,7 @@ daily_challenge
 | [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharmuley/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/prakharmuley/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/prakharmuley/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/prakharmuley/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prakharmuley/leetcode/tree/master/0503-next-greater-element-ii) |
