@@ -19,6 +19,7 @@ daily_challenge
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prakharmuley/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prakharmuley/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/prakharmuley/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/prakharmuley/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/prakharmuley/leetcode/tree/master/0496-next-greater-element-i) |
@@ -125,6 +126,7 @@ daily_challenge
 | [0402-remove-k-digits](https://github.com/prakharmuley/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prakharmuley/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/prakharmuley/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/prakharmuley/leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -137,6 +139,7 @@ daily_challenge
 | [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/prakharmuley/leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prakharmuley/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/prakharmuley/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prakharmuley/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
