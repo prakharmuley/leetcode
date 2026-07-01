@@ -9,6 +9,7 @@ daily_challenge
 | [0011-container-with-most-water](https://github.com/prakharmuley/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/prakharmuley/leetcode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharmuley/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharmuley/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -134,6 +135,7 @@ daily_challenge
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/prakharmuley/leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/prakharmuley/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
