@@ -3,13 +3,17 @@ class Solution {
 
         Arrays.sort(points, (a, b) -> Integer.compare(a[1], b[1]));
 
-        int arrows = 0;
-        long lastEnd = Long.MIN_VALUE;
+        int arrows = 1;
+        int lastEnd = points[0][1];
 
-        for (int[] point : points) {
-            if (point[0] > lastEnd) {
+        for (int i = 1; i < points.length; i++) {
+
+            int st = points[i][0];
+            int end = points[i][1];
+
+            if (st > lastEnd) {
                 arrows++;
-                lastEnd = point[1];
+                lastEnd = end;
             }
         }
 
