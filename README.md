@@ -43,6 +43,7 @@ daily_challenge
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/prakharmuley/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1338-reduce-array-size-to-the-half](https://github.com/prakharmuley/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1383-maximum-performance-of-a-team](https://github.com/prakharmuley/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prakharmuley/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prakharmuley/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prakharmuley/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -136,6 +137,7 @@ daily_challenge
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/prakharmuley/leetcode/tree/master/0948-bag-of-tokens) |
 | [1338-reduce-array-size-to-the-half](https://github.com/prakharmuley/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1383-maximum-performance-of-a-team](https://github.com/prakharmuley/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1642-furthest-building-you-can-reach](https://github.com/prakharmuley/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/prakharmuley/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakharmuley/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -153,6 +155,7 @@ daily_challenge
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/prakharmuley/leetcode/tree/master/0948-bag-of-tokens) |
 | [1338-reduce-array-size-to-the-half](https://github.com/prakharmuley/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1383-maximum-performance-of-a-team](https://github.com/prakharmuley/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prakharmuley/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/prakharmuley/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/prakharmuley/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -211,6 +214,7 @@ daily_challenge
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1338-reduce-array-size-to-the-half](https://github.com/prakharmuley/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1383-maximum-performance-of-a-team](https://github.com/prakharmuley/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1642-furthest-building-you-can-reach](https://github.com/prakharmuley/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 ## Monotonic Queue
 |  |
