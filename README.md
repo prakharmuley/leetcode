@@ -21,6 +21,7 @@ daily_challenge
 | [0239-sliding-window-maximum](https://github.com/prakharmuley/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prakharmuley/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prakharmuley/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0406-queue-reconstruction-by-height](https://github.com/prakharmuley/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prakharmuley/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -159,6 +160,7 @@ daily_challenge
 | ------- |
 | [0015-3sum](https://github.com/prakharmuley/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/prakharmuley/leetcode/tree/master/0056-merge-intervals) |
+| [0406-queue-reconstruction-by-height](https://github.com/prakharmuley/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prakharmuley/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/prakharmuley/leetcode/tree/master/0455-assign-cookies) |
@@ -341,4 +343,12 @@ daily_challenge
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/prakharmuley/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/prakharmuley/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/prakharmuley/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
