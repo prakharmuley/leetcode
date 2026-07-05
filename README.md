@@ -32,6 +32,7 @@ daily_challenge
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/prakharmuley/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharmuley/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
@@ -143,6 +144,7 @@ daily_challenge
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prakharmuley/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/prakharmuley/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
 | [0763-partition-labels](https://github.com/prakharmuley/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
@@ -164,6 +166,7 @@ daily_challenge
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prakharmuley/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/prakharmuley/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
@@ -195,6 +198,7 @@ daily_challenge
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/prakharmuley/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharmuley/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/prakharmuley/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/prakharmuley/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -230,6 +234,7 @@ daily_challenge
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prakharmuley/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -284,6 +289,7 @@ daily_challenge
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/prakharmuley/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3713-longest-balanced-substring-i](https://github.com/prakharmuley/leetcode/tree/master/3713-longest-balanced-substring-i) |
