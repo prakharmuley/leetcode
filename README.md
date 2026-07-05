@@ -14,6 +14,7 @@ daily_challenge
 | [0056-merge-intervals](https://github.com/prakharmuley/leetcode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharmuley/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/prakharmuley/leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharmuley/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/prakharmuley/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -132,6 +133,7 @@ daily_challenge
 | [0011-container-with-most-water](https://github.com/prakharmuley/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/prakharmuley/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prakharmuley/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/prakharmuley/leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/prakharmuley/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/prakharmuley/leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
