@@ -24,9 +24,6 @@ class Solution {
             if(s==t)
             {
                 list.add(new ArrayList<>(l));
-                l.remove(l.size()-1);
-                s-=root.val;
-                return;
             }
            
         }
@@ -34,7 +31,7 @@ class Solution {
         dfs(root.right,t,list,l,s);
         if(l.size()>0){
         l.remove(l.size()-1);
-        s-=root.val;
+      
         }
     }
 
