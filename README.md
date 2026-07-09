@@ -304,6 +304,7 @@ daily_challenge
 | [0045-jump-game-ii](https://github.com/prakharmuley/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prakharmuley/leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/prakharmuley/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -365,6 +366,7 @@ daily_challenge
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -373,6 +375,7 @@ daily_challenge
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -387,6 +390,7 @@ daily_challenge
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Backtracking
 |  |
 | ------- |
