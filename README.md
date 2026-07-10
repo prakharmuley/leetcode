@@ -369,6 +369,7 @@ daily_challenge
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakharmuley/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -380,6 +381,7 @@ daily_challenge
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakharmuley/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -397,6 +399,7 @@ daily_challenge
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/prakharmuley/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
 ## Backtracking
 |  |
 | ------- |
