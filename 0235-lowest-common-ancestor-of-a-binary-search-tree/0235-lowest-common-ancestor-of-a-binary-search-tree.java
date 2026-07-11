@@ -14,7 +14,7 @@ class Solution {
     {
         if(root==null) return ;
         ans=root;
-        if((p.val<root.val&&q.val>root.val)||(p.val>root.val&&q.val<root.val))
+        if((p.val<root.val&&q.val>root.val))
         {
            return;
         }
