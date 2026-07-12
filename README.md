@@ -173,6 +173,7 @@ daily_challenge
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/prakharmuley/leetcode/tree/master/0948-bag-of-tokens) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1338-reduce-array-size-to-the-half](https://github.com/prakharmuley/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1383-maximum-performance-of-a-team](https://github.com/prakharmuley/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prakharmuley/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -209,6 +210,7 @@ daily_challenge
 | [0904-fruit-into-baskets](https://github.com/prakharmuley/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prakharmuley/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakharmuley/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -385,6 +387,7 @@ daily_challenge
 | [0543-diameter-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -402,6 +405,7 @@ daily_challenge
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -409,6 +413,7 @@ daily_challenge
 | [0111-minimum-depth-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0112-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -430,6 +435,7 @@ daily_challenge
 | [0543-diameter-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
