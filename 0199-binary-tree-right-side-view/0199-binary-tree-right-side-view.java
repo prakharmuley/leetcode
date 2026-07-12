@@ -17,7 +17,7 @@ class Solution {
     public void dfs(int depth, TreeNode root, TreeMap<Integer,Integer> mp, List<Integer> list)
     {
         if(root==null) return;
-        if(list.size()<depth) {
+        if(list.size()==depth) {
         list.add(root.val);
         }
         dfs(depth+1,root.right,mp,list);
@@ -26,7 +26,7 @@ class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         TreeMap<Integer,Integer> mp=new TreeMap<>();
         List<Integer> list=new ArrayList<>();
-        dfs(1,root,mp,list);
+        dfs(0,root,mp,list);
         
         return list;
         
