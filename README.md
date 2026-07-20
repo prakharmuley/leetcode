@@ -48,6 +48,7 @@ daily_challenge
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prakharmuley/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/prakharmuley/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -337,6 +338,7 @@ daily_challenge
 | [0304-range-sum-query-2d-immutable](https://github.com/prakharmuley/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prakharmuley/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/prakharmuley/leetcode/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/prakharmuley/leetcode/tree/master/2536-increment-submatrices-by-one) |
@@ -479,6 +481,7 @@ daily_challenge
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakharmuley/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
