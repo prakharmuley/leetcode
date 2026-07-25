@@ -185,6 +185,7 @@ daily_challenge
 | [1833-maximum-ice-cream-bars](https://github.com/prakharmuley/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/prakharmuley/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/prakharmuley/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakharmuley/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -238,6 +239,7 @@ daily_challenge
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prakharmuley/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/prakharmuley/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/prakharmuley/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prakharmuley/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
