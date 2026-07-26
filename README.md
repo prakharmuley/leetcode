@@ -35,6 +35,7 @@ daily_challenge
 | [0525-contiguous-array](https://github.com/prakharmuley/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharmuley/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prakharmuley/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
@@ -173,6 +174,7 @@ daily_challenge
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prakharmuley/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/prakharmuley/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prakharmuley/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
@@ -236,6 +238,7 @@ daily_challenge
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prakharmuley/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prakharmuley/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/prakharmuley/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
