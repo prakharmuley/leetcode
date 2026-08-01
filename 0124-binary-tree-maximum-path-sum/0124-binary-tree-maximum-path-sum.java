@@ -14,12 +14,14 @@
  * }
  */
 class Solution {
-    public int dfs(TreeNode root, int[] ans)
+    public int dfs(TreeNode root, int[] arr)
     {
         if(root==null) return 0;
-        int l=Math.max(dfs(root.left,ans),0);
-        int r=Math.max(dfs(root.right,ans),0);
-        ans[0]=Math.max(ans[0],root.val+l+r);
+        int l=Math.max(0,dfs(root.left,arr));
+        if(l==0) arr[0]=Math.max(arr[0],root.val);
+        int r=Math.max(0,dfs(root.right,arr));
+        if(r==0) arr[0]=Math.max(arr[0],root.val);
+        arr[0]=Math.max(arr[0],l+r+root.val);
         return root.val+Math.max(l,r);
     }
     public int maxPathSum(TreeNode root) {
