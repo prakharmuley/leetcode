@@ -420,6 +420,7 @@ daily_challenge
 | [0834-sum-of-distances-in-tree](https://github.com/prakharmuley/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -451,6 +452,7 @@ daily_challenge
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/prakharmuley/leetcode/tree/master/1036-escape-a-large-maze) |
+| [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -471,6 +473,7 @@ daily_challenge
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/prakharmuley/leetcode/tree/master/1036-escape-a-large-maze) |
+| [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -508,6 +511,7 @@ daily_challenge
 | [0814-binary-tree-pruning](https://github.com/prakharmuley/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
