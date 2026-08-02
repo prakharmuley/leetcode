@@ -408,6 +408,7 @@ daily_challenge
 | [0437-path-sum-iii](https://github.com/prakharmuley/leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/prakharmuley/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -437,6 +438,7 @@ daily_challenge
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/prakharmuley/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/prakharmuley/leetcode/tree/master/0814-binary-tree-pruning) |
@@ -455,6 +457,7 @@ daily_challenge
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prakharmuley/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/prakharmuley/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0993-cousins-in-binary-tree) |
@@ -485,6 +488,7 @@ daily_challenge
 | [0437-path-sum-iii](https://github.com/prakharmuley/leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/prakharmuley/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
