@@ -14,29 +14,23 @@
  * }
  */
 class Solution {
+    int ans;
+    private void dfs(List<Integer> list, TreeNode root, int d, int cnt)
+    {
+         if(root==null) return;
+         if(list.size()==d)
+         {
+             list.add(cnt);
+         }
+         ans=Math.max(ans,cnt-list.get(d)+1);
+         dfs(list,root.left,d+1,2*cnt);
+         dfs(list,root.right,d+1,2*cnt+1);
 
-    long ans = 0;
-    List<Long> firstIndex = new ArrayList<>();
-
-    public int widthOfBinaryTree(TreeNode root) {
-
-        dfs(root, 0, 1L);
-
-        return (int) ans;
     }
-
-    private void dfs(TreeNode root, int level, long index) {
-
-        if (root == null)
-            return;
-
-        if (level == firstIndex.size())
-            firstIndex.add(index);
-
-        ans = Math.max(ans, index - firstIndex.get(level) + 1);
-
-        dfs(root.left, level + 1, index * 2);
-
-        dfs(root.right, level + 1, index * 2 + 1);
+    public int widthOfBinaryTree(TreeNode root) {
+        List<Integer> list=new ArrayList<>();
+        ans=0;
+        dfs(list,root,0,0);
+        return ans;
     }
 }
