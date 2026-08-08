@@ -48,6 +48,7 @@ daily_challenge
 | [0948-bag-of-tokens](https://github.com/prakharmuley/leetcode/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/prakharmuley/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prakharmuley/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/prakharmuley/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
@@ -349,6 +350,7 @@ daily_challenge
 | [0304-range-sum-query-2d-immutable](https://github.com/prakharmuley/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prakharmuley/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prakharmuley/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -463,6 +465,7 @@ daily_challenge
 | [0834-sum-of-distances-in-tree](https://github.com/prakharmuley/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/prakharmuley/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -490,6 +493,7 @@ daily_challenge
 | [0958-check-completeness-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/prakharmuley/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -576,6 +580,7 @@ daily_challenge
 | [0130-surrounded-regions](https://github.com/prakharmuley/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prakharmuley/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/prakharmuley/leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 ## Topological Sort
 |  |
 | ------- |
