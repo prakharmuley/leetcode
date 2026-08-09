@@ -53,6 +53,7 @@ daily_challenge
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prakharmuley/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -352,6 +353,7 @@ daily_challenge
 | [0417-pacific-atlantic-water-flow](https://github.com/prakharmuley/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/prakharmuley/leetcode/tree/master/1895-largest-magic-square) |
@@ -469,6 +471,7 @@ daily_challenge
 | [0993-cousins-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/prakharmuley/leetcode/tree/master/1036-escape-a-large-maze) |
+| [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prakharmuley/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -500,6 +503,7 @@ daily_challenge
 | [0993-cousins-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/prakharmuley/leetcode/tree/master/1036-escape-a-large-maze) |
+| [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prakharmuley/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -591,6 +595,7 @@ daily_challenge
 | [0200-number-of-islands](https://github.com/prakharmuley/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/prakharmuley/leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Topological Sort
 |  |
 | ------- |
