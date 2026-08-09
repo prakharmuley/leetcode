@@ -470,6 +470,7 @@ daily_challenge
 | [1036-escape-a-large-maze](https://github.com/prakharmuley/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prakharmuley/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -499,6 +500,7 @@ daily_challenge
 | [1036-escape-a-large-maze](https://github.com/prakharmuley/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prakharmuley/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -571,6 +573,7 @@ daily_challenge
 | [0547-number-of-provinces](https://github.com/prakharmuley/leetcode/tree/master/0547-number-of-provinces) |
 | [0834-sum-of-distances-in-tree](https://github.com/prakharmuley/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/prakharmuley/leetcode/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prakharmuley/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Linked List
 |  |
 | ------- |
