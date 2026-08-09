@@ -6,17 +6,17 @@ class Solution {
         if(root==tar)
         {      
             ans.add(new ArrayList<>(l));
+                              l.remove(l.size()-1);
+
             return;
         }
         
         for(int x: adj[root])
         {
           dfs(x,tar,adj,vis,ans,l);
-          l.remove(l.size()-1);
-
-            
-
         }
+                  l.remove(l.size()-1);
+
     }
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
         List<List<Integer>> list=new ArrayList<>();
