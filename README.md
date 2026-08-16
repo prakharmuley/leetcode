@@ -41,6 +41,7 @@ daily_challenge
 | [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakharmuley/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
+| [0827-making-a-large-island](https://github.com/prakharmuley/leetcode/tree/master/0827-making-a-large-island) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0881-boats-to-save-people](https://github.com/prakharmuley/leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/prakharmuley/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -356,6 +357,7 @@ daily_challenge
 | [0304-range-sum-query-2d-immutable](https://github.com/prakharmuley/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prakharmuley/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prakharmuley/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0827-making-a-large-island](https://github.com/prakharmuley/leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -472,6 +474,7 @@ daily_challenge
 | [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
 | [0797-all-paths-from-source-to-target](https://github.com/prakharmuley/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/prakharmuley/leetcode/tree/master/0814-binary-tree-pruning) |
+| [0827-making-a-large-island](https://github.com/prakharmuley/leetcode/tree/master/0827-making-a-large-island) |
 | [0834-sum-of-distances-in-tree](https://github.com/prakharmuley/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/prakharmuley/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -507,6 +510,7 @@ daily_challenge
 | [0637-average-of-levels-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/prakharmuley/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0827-making-a-large-island](https://github.com/prakharmuley/leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/prakharmuley/leetcode/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -608,6 +612,7 @@ daily_challenge
 | [0130-surrounded-regions](https://github.com/prakharmuley/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prakharmuley/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/prakharmuley/leetcode/tree/master/0547-number-of-provinces) |
+| [0827-making-a-large-island](https://github.com/prakharmuley/leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/prakharmuley/leetcode/tree/master/1905-count-sub-islands) |
