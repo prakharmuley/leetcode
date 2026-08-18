@@ -79,6 +79,7 @@ daily_challenge
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prakharmuley/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1895-largest-magic-square](https://github.com/prakharmuley/leetcode/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/prakharmuley/leetcode/tree/master/1905-count-sub-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/prakharmuley/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prakharmuley/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2101-detonate-the-maximum-bombs](https://github.com/prakharmuley/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2104-sum-of-subarray-ranges](https://github.com/prakharmuley/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -375,6 +376,7 @@ daily_challenge
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/prakharmuley/leetcode/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/prakharmuley/leetcode/tree/master/1905-count-sub-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/prakharmuley/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2536-increment-submatrices-by-one](https://github.com/prakharmuley/leetcode/tree/master/2536-increment-submatrices-by-one) |
 ## Ordered Set
 |  |
@@ -537,6 +539,7 @@ daily_challenge
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prakharmuley/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1905-count-sub-islands](https://github.com/prakharmuley/leetcode/tree/master/1905-count-sub-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/prakharmuley/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2101-detonate-the-maximum-bombs](https://github.com/prakharmuley/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
