@@ -213,6 +213,7 @@ daily_challenge
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/prakharmuley/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/prakharmuley/leetcode/tree/master/0402-remove-k-digits) |
+| [0433-minimum-genetic-mutation](https://github.com/prakharmuley/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/prakharmuley/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/prakharmuley/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
@@ -226,6 +227,7 @@ daily_challenge
 | [0076-minimum-window-substring](https://github.com/prakharmuley/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakharmuley/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prakharmuley/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/prakharmuley/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/prakharmuley/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/prakharmuley/leetcode/tree/master/0525-contiguous-array) |
@@ -522,6 +524,7 @@ daily_challenge
 | [0207-course-schedule](https://github.com/prakharmuley/leetcode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prakharmuley/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/prakharmuley/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prakharmuley/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/prakharmuley/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/prakharmuley/leetcode/tree/master/0547-number-of-provinces) |
@@ -660,5 +663,6 @@ daily_challenge
 ## Bidirectional Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/prakharmuley/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/prakharmuley/leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
