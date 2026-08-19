@@ -58,6 +58,7 @@ daily_challenge
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prakharmuley/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
+| [1162-as-far-from-land-as-possible](https://github.com/prakharmuley/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
@@ -349,6 +350,7 @@ daily_challenge
 | [0542-01-matrix](https://github.com/prakharmuley/leetcode/tree/master/0542-01-matrix) |
 | [0834-sum-of-distances-in-tree](https://github.com/prakharmuley/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/prakharmuley/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1162-as-far-from-land-as-possible](https://github.com/prakharmuley/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prakharmuley/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Design
 |  |
@@ -371,6 +373,7 @@ daily_challenge
 | [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prakharmuley/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/prakharmuley/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -533,6 +536,7 @@ daily_challenge
 | [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/prakharmuley/leetcode/tree/master/1036-escape-a-large-maze) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prakharmuley/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/prakharmuley/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/prakharmuley/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
