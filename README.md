@@ -278,6 +278,7 @@ daily_challenge
 | [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1338-reduce-array-size-to-the-half](https://github.com/prakharmuley/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1383-maximum-performance-of-a-team](https://github.com/prakharmuley/leetcode/tree/master/1383-maximum-performance-of-a-team) |
@@ -351,6 +352,7 @@ daily_challenge
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/prakharmuley/leetcode/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/prakharmuley/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/prakharmuley/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1162-as-far-from-land-as-possible](https://github.com/prakharmuley/leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -490,6 +492,7 @@ daily_challenge
 | [0637-average-of-levels-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/prakharmuley/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/prakharmuley/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/prakharmuley/leetcode/tree/master/0827-making-a-large-island) |
@@ -531,6 +534,7 @@ daily_challenge
 | [0637-average-of-levels-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0752-open-the-lock](https://github.com/prakharmuley/leetcode/tree/master/0752-open-the-lock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/prakharmuley/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0827-making-a-large-island](https://github.com/prakharmuley/leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/prakharmuley/leetcode/tree/master/0841-keys-and-rooms) |
@@ -622,6 +626,7 @@ daily_challenge
 | ------- |
 | [0207-course-schedule](https://github.com/prakharmuley/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/prakharmuley/leetcode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/prakharmuley/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/prakharmuley/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/prakharmuley/leetcode/tree/master/0841-keys-and-rooms) |
@@ -665,4 +670,8 @@ daily_challenge
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/prakharmuley/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/prakharmuley/leetcode/tree/master/0752-open-the-lock) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
