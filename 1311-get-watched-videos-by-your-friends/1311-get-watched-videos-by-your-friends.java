@@ -21,10 +21,10 @@ class Solution {
         while(!q.isEmpty())
         {
             int l=q.size();
-            if(cnt==level+1)
-            {
-                break;
-            }
+            // if(cnt==level+1)
+            // {
+            //     break;
+            // }
             for(int i=0;i<l;i++)
             {
                 int p=q.poll();
