@@ -5,7 +5,6 @@ class Solution {
         for(String s: wordList) hs.add(s);
         Queue<String> q=new LinkedList<>();
         q.offer(beginWord);
-        vis.add(beginWord);
        // hs.add(beginWord);
        // hs.add(endWord);
         int ans=0;
@@ -24,12 +23,9 @@ class Solution {
                     {
                        arr[idx]=c;
                        String str=new String(arr);
-                       if(hs.contains(str))
+                       if(hs.remove(str))
                        {
-                          if(!vis.contains(str)){
-                            q.offer(str);
-                            vis.add(str);
-                       }
+                          q.offer(str);
                        }
                        
                       
