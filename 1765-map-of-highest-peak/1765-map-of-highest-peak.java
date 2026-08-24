@@ -13,7 +13,6 @@ class Solution {
                  if(grid[i][j]==1)
                  {
                     dist[i][j]=0;
-                    grid[i][j]=-1;
                     q.offer(new int[]{i,j});
                  }
             }
@@ -32,10 +31,9 @@ class Solution {
             {
                 int r=x+dir[d];
                 int c=y+dir[d+1];
-                if(r<0||c<0||r>=n||c>=m||dist[r][c]==0||grid[r][c]==-1) continue;
+                if (r < 0 || c < 0 || r >= n || c >= m || dist[r][c] != Integer.MAX_VALUE) continue;
                 if(dist[r][c]>dist[x][y])
                 {
-                  grid[r][c]=-1;  
                   q.offer(new int[]{r,c});
                   dist[r][c]=dist[x][y]+1;
                 }   
