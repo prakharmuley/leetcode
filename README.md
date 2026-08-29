@@ -67,6 +67,7 @@ daily_challenge
 | [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prakharmuley/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prakharmuley/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/prakharmuley/leetcode/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/prakharmuley/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/prakharmuley/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -395,6 +396,7 @@ daily_challenge
 | [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prakharmuley/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1765-map-of-highest-peak](https://github.com/prakharmuley/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/prakharmuley/leetcode/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/prakharmuley/leetcode/tree/master/1905-count-sub-islands) |
@@ -566,6 +568,7 @@ daily_challenge
 | [1091-shortest-path-in-binary-matrix](https://github.com/prakharmuley/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/prakharmuley/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prakharmuley/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1302-deepest-leaves-sum](https://github.com/prakharmuley/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/prakharmuley/leetcode/tree/master/1306-jump-game-iii) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/prakharmuley/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
