@@ -1,76 +1,85 @@
+// 
+
+
+
 class Solution {
-    public void dfs(int i, int j,int n, int m, int area, int[][] grid, boolean[][] vis)
-    {
-           if(i<0||j<0||i>=n||j>=m||grid[i][j]==0||grid[i][j]==area) return;
-           grid[i][j]=area;
-           vis[i][j]=true;
-           dfs(i+1,j,n,m,area,grid,vis);
-           dfs(i,j+1,n,m,area,grid,vis);
-           dfs(i-1,j,n,m,area,grid,vis);
-           dfs(i,j-1,n,m,area,grid,vis);
+
+    int[] dir = {-1, 0, 1, 0, -1};
+
+    void dfs(int i, int j, int[][] grid) {
+        int n = grid.length;
+        int m = grid[0].length;
+
+        if (i < 0 || j < 0 || i >= n || j >= m || grid[i][j] != 1) {
+            return;
+        }
+
+        grid[i][j] = 2;
+
+        dfs(i + 1, j, grid);
+        dfs(i - 1, j, grid);
+        dfs(i, j + 1, grid);
+        dfs(i, j - 1, grid);
     }
+
     public int shortestBridge(int[][] grid) {
-        int[] dir=new int[]{-1,0,1,0,-1};
-        int n=grid.length;
-        int m=grid[0].length;
-        boolean[][] vis=new boolean[n][m];
-        for(boolean[] b: vis) Arrays.fill(b,false);
-        int area=2;
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(grid[i][j]==1&&!vis[i][j])
-                {
-                    dfs(i,j,n,m,area,grid,vis);
-                    area++;
+        int n = grid.length;
+        int m = grid[0].length;
+
+        boolean found = false;
+
+        for (int i = 0; i < n && !found; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 1) {
+                    dfs(i, j, grid);
+                    found = true;
+                    break;
                 }
             }
         }
-        Queue<int[]> q=new LinkedList<>();
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(grid[i][j]==2) q.offer(new int[]{i,j,2,0});
+
+        Queue<int[]> q = new LinkedList<>();
+        boolean[][] vis = new boolean[n][m];
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == 2) {
+                    q.offer(new int[]{i, j});
+                    vis[i][j] = true;
+                }
             }
         }
-        int ans=0;
-        vis=new boolean[n][m];
-        while(!q.isEmpty())
-        {
-            int l=q.size();
-            for(int i=0;i<l;i++)
-            {
-                int[] pair=q.poll();
-                int x=pair[0];
-                int y=pair[1];
-                int p=pair[2];
-                int step=pair[3];
-                if(grid[x][y]==3) return step-1;
-                for(int j=0;j<4;j++)
-                {
-                    int r=x+dir[j];
-                    int c=y+dir[j+1];
-                    if(r<0||c<0||r>=n||c>=m||vis[r][c])
-                    {
+
+        int steps = 0;
+
+        while (!q.isEmpty()) {
+            int size = q.size();
+
+            while (size-- > 0) {
+                int[] curr = q.poll();
+                int x = curr[0];
+                int y = curr[1];
+
+                for (int d = 0; d < 4; d++) {
+                    int nx = x + dir[d];
+                    int ny = y + dir[d + 1];
+
+                    if (nx < 0 || ny < 0 || nx >= n || ny >= m || vis[nx][ny]) {
                         continue;
                     }
-                    vis[r][c]=true;
-                    q.offer(new int[]{r,c,grid[r][c],step+1});
+
+                    if (grid[nx][ny] == 1) {
+                        return steps;
+                    }
+
+                    vis[nx][ny] = true;
+                    q.offer(new int[]{nx, ny});
                 }
-            }           
-        }
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                System.out.print(grid[i][j]+" ");
             }
-            System.out.print("\n");
+
+            steps++;
         }
-        return 0;
 
-
+        return -1;
     }
 }
