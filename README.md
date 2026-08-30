@@ -78,6 +78,7 @@ daily_challenge
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prakharmuley/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prakharmuley/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prakharmuley/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/prakharmuley/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1590-make-sum-divisible-by-p](https://github.com/prakharmuley/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1642-furthest-building-you-can-reach](https://github.com/prakharmuley/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prakharmuley/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -401,6 +402,7 @@ daily_challenge
 | [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prakharmuley/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/prakharmuley/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1765-map-of-highest-peak](https://github.com/prakharmuley/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/prakharmuley/leetcode/tree/master/1895-largest-magic-square) |
 | [1905-count-sub-islands](https://github.com/prakharmuley/leetcode/tree/master/1905-count-sub-islands) |
@@ -530,6 +532,7 @@ daily_challenge
 | [1376-time-needed-to-inform-all-employees](https://github.com/prakharmuley/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prakharmuley/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/prakharmuley/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/prakharmuley/leetcode/tree/master/1905-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/prakharmuley/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
@@ -581,6 +584,7 @@ daily_challenge
 | [1376-time-needed-to-inform-all-employees](https://github.com/prakharmuley/leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prakharmuley/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/prakharmuley/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1765-map-of-highest-peak](https://github.com/prakharmuley/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/prakharmuley/leetcode/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prakharmuley/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -715,4 +719,12 @@ daily_challenge
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/prakharmuley/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Articulation Point
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/prakharmuley/leetcode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
