@@ -275,6 +275,7 @@ daily_challenge
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prakharmuley/leetcode/tree/master/0050-powx-n) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakharmuley/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -749,4 +750,8 @@ daily_challenge
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/prakharmuley/leetcode/tree/master/0912-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/prakharmuley/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
