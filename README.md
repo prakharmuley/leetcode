@@ -43,6 +43,7 @@ daily_challenge
 | [0628-maximum-product-of-three-numbers](https://github.com/prakharmuley/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
 | [0752-open-the-lock](https://github.com/prakharmuley/leetcode/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/prakharmuley/leetcode/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/prakharmuley/leetcode/tree/master/0827-making-a-large-island) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -106,6 +107,7 @@ daily_challenge
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prakharmuley/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/prakharmuley/leetcode/tree/master/0456-132-pattern) |
+| [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prakharmuley/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prakharmuley/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -289,6 +291,7 @@ daily_challenge
 | [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1338-reduce-array-size-to-the-half](https://github.com/prakharmuley/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -385,6 +388,7 @@ daily_challenge
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prakharmuley/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prakharmuley/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/prakharmuley/leetcode/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/prakharmuley/leetcode/tree/master/0827-making-a-large-island) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/prakharmuley/leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0934-shortest-bridge](https://github.com/prakharmuley/leetcode/tree/master/0934-shortest-bridge) |
@@ -508,6 +512,7 @@ daily_challenge
 | [0637-average-of-levels-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/prakharmuley/leetcode/tree/master/0687-longest-univalue-path) |
+| [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/prakharmuley/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/prakharmuley/leetcode/tree/master/0814-binary-tree-pruning) |
@@ -552,6 +557,7 @@ daily_challenge
 | [0637-average-of-levels-in-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0752-open-the-lock](https://github.com/prakharmuley/leetcode/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/prakharmuley/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/prakharmuley/leetcode/tree/master/0815-bus-routes) |
@@ -669,6 +675,7 @@ daily_challenge
 | [0130-surrounded-regions](https://github.com/prakharmuley/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prakharmuley/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/prakharmuley/leetcode/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/prakharmuley/leetcode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/prakharmuley/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -700,4 +707,12 @@ daily_challenge
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
