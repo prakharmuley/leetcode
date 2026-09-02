@@ -224,6 +224,7 @@ daily_challenge
 | [0014-longest-common-prefix](https://github.com/prakharmuley/leetcode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/prakharmuley/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/prakharmuley/leetcode/tree/master/0127-word-ladder) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/prakharmuley/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/prakharmuley/leetcode/tree/master/0402-remove-k-digits) |
@@ -276,6 +277,7 @@ daily_challenge
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prakharmuley/leetcode/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakharmuley/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -370,6 +372,7 @@ daily_challenge
 | [0055-jump-game](https://github.com/prakharmuley/leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/prakharmuley/leetcode/tree/master/0542-01-matrix) |
@@ -754,4 +757,13 @@ daily_challenge
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prakharmuley/leetcode/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
