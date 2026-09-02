@@ -1,6 +1,7 @@
 class Solution {
-    Map<String,List<Integer>> mp=new HashMap<>();
     public List<Integer> diffWaysToCompute(String str) {
+            Map<String,List<Integer>> mp=new HashMap<>();
+
         if(mp.containsKey(str))
         {
             return mp.get(str);
