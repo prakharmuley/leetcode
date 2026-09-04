@@ -54,6 +54,7 @@ daily_challenge
 | [0907-sum-of-subarray-minimums](https://github.com/prakharmuley/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/prakharmuley/leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/prakharmuley/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0932-beautiful-array](https://github.com/prakharmuley/leetcode/tree/master/0932-beautiful-array) |
 | [0934-shortest-bridge](https://github.com/prakharmuley/leetcode/tree/master/0934-shortest-bridge) |
 | [0948-bag-of-tokens](https://github.com/prakharmuley/leetcode/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/prakharmuley/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -280,6 +281,7 @@ daily_challenge
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakharmuley/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0932-beautiful-array](https://github.com/prakharmuley/leetcode/tree/master/0932-beautiful-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prakharmuley/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/prakharmuley/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -660,6 +662,7 @@ daily_challenge
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prakharmuley/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/prakharmuley/leetcode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/prakharmuley/leetcode/tree/master/0932-beautiful-array) |
 ## Simulation
 |  |
 | ------- |
