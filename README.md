@@ -282,6 +282,7 @@ daily_challenge
 | ------- |
 | [0050-powx-n](https://github.com/prakharmuley/leetcode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0372-super-pow](https://github.com/prakharmuley/leetcode/tree/master/0372-super-pow) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakharmuley/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0932-beautiful-array](https://github.com/prakharmuley/leetcode/tree/master/0932-beautiful-array) |
@@ -673,6 +674,7 @@ daily_challenge
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakharmuley/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prakharmuley/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0372-super-pow](https://github.com/prakharmuley/leetcode/tree/master/0372-super-pow) |
 | [0912-sort-an-array](https://github.com/prakharmuley/leetcode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/prakharmuley/leetcode/tree/master/0932-beautiful-array) |
 ## Simulation
@@ -785,4 +787,12 @@ daily_challenge
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/prakharmuley/leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/prakharmuley/leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
