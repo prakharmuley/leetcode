@@ -68,6 +68,7 @@ daily_challenge
 | [1162-as-far-from-land-as-possible](https://github.com/prakharmuley/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/prakharmuley/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/prakharmuley/leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prakharmuley/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/prakharmuley/leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -234,6 +235,7 @@ daily_challenge
 | [0763-partition-labels](https://github.com/prakharmuley/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prakharmuley/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/prakharmuley/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/prakharmuley/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3713-longest-balanced-substring-i](https://github.com/prakharmuley/leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -262,6 +264,7 @@ daily_challenge
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/prakharmuley/leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1124-longest-well-performing-interval](https://github.com/prakharmuley/leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prakharmuley/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/prakharmuley/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1338-reduce-array-size-to-the-half](https://github.com/prakharmuley/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prakharmuley/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -352,6 +355,7 @@ daily_challenge
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/prakharmuley/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/prakharmuley/leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1310-xor-queries-of-a-subarray](https://github.com/prakharmuley/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/prakharmuley/leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/prakharmuley/leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -360,6 +364,7 @@ daily_challenge
 | ------- |
 | [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/prakharmuley/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3713-longest-balanced-substring-i](https://github.com/prakharmuley/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
@@ -383,6 +388,7 @@ daily_challenge
 | [0834-sum-of-distances-in-tree](https://github.com/prakharmuley/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/prakharmuley/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1162-as-far-from-land-as-possible](https://github.com/prakharmuley/leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prakharmuley/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Design
 |  |
@@ -650,6 +656,7 @@ daily_challenge
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/prakharmuley/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -774,4 +781,8 @@ daily_challenge
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bitmask
+|  |
+| ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
