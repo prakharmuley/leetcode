@@ -373,6 +373,7 @@ daily_challenge
 | [0045-jump-game-ii](https://github.com/prakharmuley/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prakharmuley/leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -457,6 +458,7 @@ daily_challenge
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/prakharmuley/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prakharmuley/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -604,6 +606,7 @@ daily_challenge
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/prakharmuley/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prakharmuley/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -644,11 +647,13 @@ daily_challenge
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/prakharmuley/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prakharmuley/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
