@@ -35,6 +35,7 @@ daily_challenge
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prakharmuley/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/prakharmuley/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/prakharmuley/leetcode/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/prakharmuley/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/prakharmuley/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prakharmuley/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -114,6 +115,7 @@ daily_challenge
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prakharmuley/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/prakharmuley/leetcode/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/prakharmuley/leetcode/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/prakharmuley/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prakharmuley/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -434,6 +436,7 @@ daily_challenge
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prakharmuley/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prakharmuley/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/prakharmuley/leetcode/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/prakharmuley/leetcode/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -462,11 +465,13 @@ daily_challenge
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prakharmuley/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/prakharmuley/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/prakharmuley/leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prakharmuley/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0406-queue-reconstruction-by-height](https://github.com/prakharmuley/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/prakharmuley/leetcode/tree/master/0493-reverse-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -681,6 +686,7 @@ daily_challenge
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prakharmuley/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0372-super-pow](https://github.com/prakharmuley/leetcode/tree/master/0372-super-pow) |
+| [0493-reverse-pairs](https://github.com/prakharmuley/leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/prakharmuley/leetcode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/prakharmuley/leetcode/tree/master/0932-beautiful-array) |
 ## Simulation
@@ -768,6 +774,7 @@ daily_challenge
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prakharmuley/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/prakharmuley/leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/prakharmuley/leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -806,4 +813,5 @@ daily_challenge
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prakharmuley/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/prakharmuley/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
