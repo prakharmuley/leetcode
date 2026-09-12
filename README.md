@@ -13,6 +13,7 @@ daily_challenge
 | [0045-jump-game-ii](https://github.com/prakharmuley/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prakharmuley/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prakharmuley/leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharmuley/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakharmuley/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -360,6 +361,7 @@ daily_challenge
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/prakharmuley/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/prakharmuley/leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -669,6 +671,7 @@ daily_challenge
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/prakharmuley/leetcode/tree/master/0797-all-paths-from-source-to-target) |
