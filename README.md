@@ -676,6 +676,7 @@ daily_challenge
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/prakharmuley/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0113-path-sum-ii) |
