@@ -231,6 +231,7 @@ daily_challenge
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prakharmuley/leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/prakharmuley/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/prakharmuley/leetcode/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -385,6 +386,7 @@ daily_challenge
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/prakharmuley/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prakharmuley/leetcode/tree/master/0055-jump-game) |
@@ -673,6 +675,7 @@ daily_challenge
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0113-path-sum-ii) |
@@ -809,6 +812,7 @@ daily_challenge
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bitmask
 |  |
