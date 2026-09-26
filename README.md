@@ -17,6 +17,7 @@ daily_challenge
 | [0055-jump-game](https://github.com/prakharmuley/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prakharmuley/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prakharmuley/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharmuley/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/prakharmuley/leetcode/tree/master/0090-subsets-ii) |
@@ -239,6 +240,7 @@ daily_challenge
 | [0014-longest-common-prefix](https://github.com/prakharmuley/leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/prakharmuley/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/prakharmuley/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/prakharmuley/leetcode/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -421,6 +423,7 @@ daily_challenge
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/prakharmuley/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/prakharmuley/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prakharmuley/leetcode/tree/master/0200-number-of-islands) |
@@ -538,6 +541,7 @@ daily_challenge
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/prakharmuley/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/prakharmuley/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/prakharmuley/leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -690,6 +694,7 @@ daily_challenge
 | [0046-permutations](https://github.com/prakharmuley/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/prakharmuley/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/prakharmuley/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/prakharmuley/leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0113-path-sum-ii) |
