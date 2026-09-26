@@ -47,6 +47,7 @@ daily_challenge
 | [0503-next-greater-element-ii](https://github.com/prakharmuley/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/prakharmuley/leetcode/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/prakharmuley/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/prakharmuley/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharmuley/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
@@ -371,6 +372,7 @@ daily_challenge
 | [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prakharmuley/leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/prakharmuley/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0526-beautiful-arrangement](https://github.com/prakharmuley/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/prakharmuley/leetcode/tree/master/0784-letter-case-permutation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/prakharmuley/leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -402,6 +404,7 @@ daily_challenge
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0526-beautiful-arrangement](https://github.com/prakharmuley/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/prakharmuley/leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/prakharmuley/leetcode/tree/master/0834-sum-of-distances-in-tree) |
@@ -691,6 +694,7 @@ daily_challenge
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/prakharmuley/leetcode/tree/master/0216-combination-sum-iii) |
+| [0526-beautiful-arrangement](https://github.com/prakharmuley/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/prakharmuley/leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/prakharmuley/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -829,6 +833,7 @@ daily_challenge
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/prakharmuley/leetcode/tree/master/0526-beautiful-arrangement) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/prakharmuley/leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Euler's Totient Function
 |  |
