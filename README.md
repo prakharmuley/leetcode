@@ -242,6 +242,7 @@ daily_challenge
 | [0076-minimum-window-substring](https://github.com/prakharmuley/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/prakharmuley/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/prakharmuley/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/prakharmuley/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/prakharmuley/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -403,6 +404,7 @@ daily_challenge
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/prakharmuley/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -698,6 +700,7 @@ daily_challenge
 | [0090-subsets-ii](https://github.com/prakharmuley/leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/prakharmuley/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/prakharmuley/leetcode/tree/master/0216-combination-sum-iii) |
 | [0526-beautiful-arrangement](https://github.com/prakharmuley/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/prakharmuley/leetcode/tree/master/0784-letter-case-permutation) |
