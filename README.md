@@ -300,6 +300,7 @@ daily_challenge
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prakharmuley/leetcode/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/prakharmuley/leetcode/tree/master/0089-gray-code) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0372-super-pow](https://github.com/prakharmuley/leetcode/tree/master/0372-super-pow) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -374,6 +375,7 @@ daily_challenge
 |  |
 | ------- |
 | [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/prakharmuley/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/prakharmuley/leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/prakharmuley/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0526-beautiful-arrangement](https://github.com/prakharmuley/leetcode/tree/master/0526-beautiful-arrangement) |
@@ -698,6 +700,7 @@ daily_challenge
 | [0077-combinations](https://github.com/prakharmuley/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prakharmuley/leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/prakharmuley/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/prakharmuley/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/prakharmuley/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
