@@ -14,6 +14,7 @@ daily_challenge
 | [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/prakharmuley/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/prakharmuley/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/prakharmuley/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/prakharmuley/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prakharmuley/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
@@ -700,6 +701,7 @@ daily_challenge
 | [0039-combination-sum](https://github.com/prakharmuley/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prakharmuley/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/prakharmuley/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/prakharmuley/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/prakharmuley/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/prakharmuley/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/prakharmuley/leetcode/tree/master/0079-word-search) |
@@ -868,4 +870,8 @@ daily_challenge
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prakharmuley/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/prakharmuley/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/prakharmuley/leetcode/tree/master/0493-reverse-pairs) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/prakharmuley/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
