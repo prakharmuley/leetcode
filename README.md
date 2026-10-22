@@ -304,6 +304,7 @@ daily_challenge
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prakharmuley/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/prakharmuley/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/prakharmuley/leetcode/tree/master/0089-gray-code) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0372-super-pow](https://github.com/prakharmuley/leetcode/tree/master/0372-super-pow) |
@@ -409,6 +410,7 @@ daily_challenge
 | [0042-trapping-rain-water](https://github.com/prakharmuley/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/prakharmuley/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prakharmuley/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/prakharmuley/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -847,6 +849,7 @@ daily_challenge
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prakharmuley/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/prakharmuley/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bracket Sequences
