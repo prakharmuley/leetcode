@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 class Solution {
     private int memo(int[] coins, int amt, int[] dp) {
