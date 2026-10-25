@@ -30,6 +30,7 @@ daily_challenge
 | [0130-surrounded-regions](https://github.com/prakharmuley/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/prakharmuley/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/prakharmuley/leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/prakharmuley/leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharmuley/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/prakharmuley/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/prakharmuley/leetcode/tree/master/0200-number-of-islands) |
@@ -251,6 +252,7 @@ daily_challenge
 | [0093-restore-ip-addresses](https://github.com/prakharmuley/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/prakharmuley/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/prakharmuley/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/prakharmuley/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/prakharmuley/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -273,6 +275,7 @@ daily_challenge
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakharmuley/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prakharmuley/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/prakharmuley/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/prakharmuley/leetcode/tree/master/0139-word-break) |
 | [0433-minimum-genetic-mutation](https://github.com/prakharmuley/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/prakharmuley/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -420,6 +423,7 @@ daily_challenge
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/prakharmuley/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/prakharmuley/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/prakharmuley/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prakharmuley/leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -810,6 +814,7 @@ daily_challenge
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prakharmuley/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/prakharmuley/leetcode/tree/master/0139-word-break) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -860,6 +865,7 @@ daily_challenge
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prakharmuley/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/prakharmuley/leetcode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/prakharmuley/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bracket Sequences
@@ -904,4 +910,8 @@ daily_challenge
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/prakharmuley/leetcode/tree/master/0322-coin-change) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/prakharmuley/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
