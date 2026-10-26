@@ -26,24 +26,41 @@
 //     }
 // }
 class Solution {
-    private boolean dfs(int i, int n, String s, List<String> list, Boolean[] memo) {
-        if (i == n) return true;
-        if (memo[i] != null) return memo[i];
+    // private boolean dfs(int i, int n, String s, List<String> list, Boolean[] memo) {
+    //     if (i == n) return true;
+    //     if (memo[i] != null) return memo[i];
 
-        for (String str : list) {
-            int len = str.length();
-            if (i + len <= n && s.startsWith(str, i)) {
-                if (dfs(i + len, n, s, list, memo)) {
-                    return memo[i] = true;
-                }
-            }
-        }
+    //     for (String str : list) {
+    //         int len = str.length();
+    //         if (i + len <= n && s.startsWith(str, i)) {
+    //             if (dfs(i + len, n, s, list, memo)) {
+    //                 return memo[i] = true;
+    //             }
+    //         }
+    //     }
         
-        return memo[i] = false;
-    }
+    //     return memo[i] = false;
+    // }
 
     public boolean wordBreak(String s, List<String> wordDict) {
         int n = s.length();
-        return dfs(0, n, s, wordDict, new Boolean[n]);
+        boolean[] dp=new boolean[n+1];
+        dp[0]=true;
+        for(int i=1;i<=n;i++)
+        {
+            for(String str: wordDict)
+            {
+               if(i>=str.length()&&dp[i-str.length()]&&s.startsWith(str,i-str.length()))
+                {
+                    dp[i]=true;
+                    break;
+                }
+            }
+        }
+            
+            
+    
+       return dp[n];
+       // return dfs(0, n, s, wordDict, new Boolean[n]);
     }
 }
