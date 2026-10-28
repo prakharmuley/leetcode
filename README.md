@@ -249,6 +249,7 @@ daily_challenge
 | [0022-generate-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/prakharmuley/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/prakharmuley/leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/prakharmuley/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/prakharmuley/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/prakharmuley/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/prakharmuley/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -420,6 +421,7 @@ daily_challenge
 | [0055-jump-game](https://github.com/prakharmuley/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/prakharmuley/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/prakharmuley/leetcode/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/prakharmuley/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prakharmuley/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharmuley/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/prakharmuley/leetcode/tree/master/0131-palindrome-partitioning) |
