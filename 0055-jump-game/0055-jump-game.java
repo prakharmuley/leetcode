@@ -1,31 +1,22 @@
 class Solution {
-    public boolean canJump(int[] nums) {
-        int j=0,jump=0;
-        int n=nums.length;
-        while(j<n)
-        {
-            System.out.print(jump+"\n");
-            if(jump<j) return false;
-            jump=Math.max(jump,j+nums[j]);
-            
-            
-            if(jump>=n-1) return true;
-            j++;
-          
+    private boolean fun(int i, int n, int[] arr, Boolean[] dp)
+    {
+        if(i>=n-1) return true;
+        if(arr[i]==0) return false;
+        if(dp[i]!=null) return dp[i];
+        for(int j=1;j<=arr[i];j++){
+         if(fun(j+i,n,arr,dp))
+          {
+            return dp[j+i]=true;
+          }
         }
+    
+        return dp[i]=false;
+    }
+    public boolean canJump(int[] nums) {
+        Boolean[] dp=new Boolean[nums.length];
+        if(fun(0,nums.length,nums,dp)) return true;
+        
         return false;
     }
 }
-
-/*
-
-2 3 1 1 4
-2 4 3 4 8
-
-
-3 2 1 0 4
-3 3 3 3 8
-
-
-
-*/
