@@ -317,6 +317,7 @@ daily_challenge
 | [0070-climbing-stairs](https://github.com/prakharmuley/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/prakharmuley/leetcode/tree/master/0089-gray-code) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/prakharmuley/leetcode/tree/master/0279-perfect-squares) |
 | [0372-super-pow](https://github.com/prakharmuley/leetcode/tree/master/0372-super-pow) |
 | [0523-continuous-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakharmuley/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -431,6 +432,7 @@ daily_challenge
 | [0198-house-robber](https://github.com/prakharmuley/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prakharmuley/leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/prakharmuley/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/prakharmuley/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/prakharmuley/leetcode/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/prakharmuley/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -638,6 +640,7 @@ daily_challenge
 | [0199-binary-tree-right-side-view](https://github.com/prakharmuley/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/prakharmuley/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/prakharmuley/leetcode/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/prakharmuley/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prakharmuley/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/prakharmuley/leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prakharmuley/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -911,11 +914,13 @@ daily_challenge
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/prakharmuley/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/prakharmuley/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prakharmuley/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/prakharmuley/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/prakharmuley/leetcode/tree/master/0322-coin-change) |
 ## Brute-Force Search
 |  |
