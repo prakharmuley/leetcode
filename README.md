@@ -38,6 +38,7 @@ daily_challenge
 | [0213-house-robber-ii](https://github.com/prakharmuley/leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/prakharmuley/leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/prakharmuley/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prakharmuley/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prakharmuley/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/prakharmuley/leetcode/tree/master/0322-coin-change) |
@@ -131,6 +132,7 @@ daily_challenge
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prakharmuley/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prakharmuley/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/prakharmuley/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prakharmuley/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/prakharmuley/leetcode/tree/master/0327-count-of-range-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prakharmuley/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -435,6 +437,7 @@ daily_challenge
 | [0213-house-robber-ii](https://github.com/prakharmuley/leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prakharmuley/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/prakharmuley/leetcode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/prakharmuley/leetcode/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/prakharmuley/leetcode/tree/master/0377-combination-sum-iv) |
@@ -933,4 +936,8 @@ daily_challenge
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prakharmuley/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
