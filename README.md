@@ -65,6 +65,7 @@ daily_challenge
 | [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prakharmuley/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/prakharmuley/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0752-open-the-lock](https://github.com/prakharmuley/leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -446,6 +447,7 @@ daily_challenge
 | [0435-non-overlapping-intervals](https://github.com/prakharmuley/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0526-beautiful-arrangement](https://github.com/prakharmuley/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/prakharmuley/leetcode/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/prakharmuley/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/prakharmuley/leetcode/tree/master/0834-sum-of-distances-in-tree) |
@@ -528,6 +530,7 @@ daily_challenge
 | [0327-count-of-range-sum](https://github.com/prakharmuley/leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/prakharmuley/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/prakharmuley/leetcode/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
@@ -535,6 +538,7 @@ daily_challenge
 | [0327-count-of-range-sum](https://github.com/prakharmuley/leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/prakharmuley/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/prakharmuley/leetcode/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -940,4 +944,5 @@ daily_challenge
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
