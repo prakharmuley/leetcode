@@ -1,24 +1,51 @@
-class Solution {
-   public int fun(int[] a, int i, int[] c, int[] dp, int n)
-   {
-    if(i>=n) return 0;
-    if(dp[i]!=-1) return dp[i];
-    int c1=c[0]+fun(a,i+1,c,dp,n);
-    int j=i;
-    int mx=a[i]+7;
-    while(j<n&&a[j]<mx) j++;
-    int c7=c[1]+fun(a,j,c,dp,n);
+// class Solution {
+//    public int fun(int[] a, int i, int[] c, int[] dp, int n)
+//    {
+//     if(i>=n) return 0;
+//     if(dp[i]!=-1) return dp[i];
+//     int c1=c[0]+fun(a,i+1,c,dp,n);
+//     int j=i;
+//     int mx=a[i]+7;
+//     while(j<n&&a[j]<mx) j++;
+//     int c7=c[1]+fun(a,j,c,dp,n);
 
-    j=i;
-    mx=a[i]+30;
-    while(j<n&&a[j]<mx) j++;
-    int c30=c[2]+fun(a,j,c,dp,n);
-    return dp[i]=Math.min(c1,Math.min(c7,c30)); 
-   }
-    public int mincostTickets(int[] days, int[] costs) {
+//     j=i;
+//     mx=a[i]+30;
+//     while(j<n&&a[j]<mx) j++;
+//     int c30=c[2]+fun(a,j,c,dp,n);
+//     return dp[i]=Math.min(c1,Math.min(c7,c30)); 
+//    }
+//     public int mincostTickets(int[] days, int[] costs) {
+//         int n=days.length;
+//         int[] dp=new int[n];
+//         Arrays.fill(dp,-1);
+//         return fun(days,0,costs,dp,n);
+//     }
+// }
+
+class Solution {
+ public int mincostTickets(int[] days, int[] costs) {
         int n=days.length;
-        int[] dp=new int[n];
-        Arrays.fill(dp,-1);
-        return fun(days,0,costs,dp,n);
+        int[] dp=new int[n+1];
+        int ans=Integer.MAX_VALUE;
+        for(int i=n-1;i>=0;i--)
+        {
+            int j=i;
+            while(j<n&&days[j]<days[i]+1)
+              j++;
+
+            int c1=costs[0]+dp[j];
+            while(j<n&&days[j]<days[i]+7)
+             j++;
+            int c7=costs[1]+dp[j];
+            j=i;
+            while(j<n&&days[j]<days[i]+30)
+             j++;
+            int c30=costs[2]+dp[j];
+            ans=Math.min(c1,Math.min(c7,c30));
+            dp[i]=ans;
+        }
+        return dp[0];
+        
     }
 }
