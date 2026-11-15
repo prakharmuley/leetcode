@@ -67,6 +67,7 @@ daily_challenge
 | [0630-course-schedule-iii](https://github.com/prakharmuley/leetcode/tree/master/0630-course-schedule-iii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/prakharmuley/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0740-delete-and-earn](https://github.com/prakharmuley/leetcode/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/prakharmuley/leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/prakharmuley/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/prakharmuley/leetcode/tree/master/0815-bus-routes) |
@@ -291,6 +292,7 @@ daily_challenge
 | [0525-contiguous-array](https://github.com/prakharmuley/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prakharmuley/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/prakharmuley/leetcode/tree/master/0621-task-scheduler) |
+| [0740-delete-and-earn](https://github.com/prakharmuley/leetcode/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/prakharmuley/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/prakharmuley/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/prakharmuley/leetcode/tree/master/0767-reorganize-string) |
@@ -450,6 +452,7 @@ daily_challenge
 | [0542-01-matrix](https://github.com/prakharmuley/leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prakharmuley/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/prakharmuley/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0740-delete-and-earn](https://github.com/prakharmuley/leetcode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prakharmuley/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/prakharmuley/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/prakharmuley/leetcode/tree/master/0907-sum-of-subarray-minimums) |
